@@ -14,7 +14,7 @@ echo ---------------------------------------------------------------------------
 
 python -m ensurepip
 SET home_path=%~dp0
-set version=v1.7.0
+set version=v1.8.0 
 echo "<<< Install Stable Diffusion %version% and Extension >>>"
 ::Install A1111
 
